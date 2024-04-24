@@ -3,7 +3,7 @@ from hello_world.formater import get_formatted
 from hello_world.formater import SUPPORTED, PLAIN
 from flask import request
 
-moje_imie = "akub"
+moje_imie = "Jakub"
 msg = "Hello World!"
 
 @app.route('/')
